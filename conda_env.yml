@@ -1,0 +1,14 @@
+name: proteinotes
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - tqdm~=4.62.0
+  - jupyterlab~=3.3.4
+  - seaborn~=0.11.2
+  - biotite~=0.33.0
+  - pip
+  - ipywidgets
+  - py3dmol
