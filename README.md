@@ -1,4 +1,7 @@
 # proteinotes
+[![DOI](https://zenodo.org/badge/517720224.svg)](https://zenodo.org/badge/latestdoi/517720224)
+
+
 Jupyter notebooks and links related to protein bioinformatics
 
 
